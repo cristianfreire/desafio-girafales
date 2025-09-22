@@ -6,9 +6,7 @@ Uma API minimalista construída com .NET e Entity Framework.
 ## Project setup
 .NET 9.0
 
-Entity Framework Core
-SQLite Database
-Swagger/OpenAPI
+Entity Framework Core, SQLite Database, Swagger/OpenAPI
 
 ## Como executar
 
